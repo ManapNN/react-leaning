@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactt/static/css/main.f25ca199.css",
+    "main.js": "/reactt/static/js/main.c6ee6957.js",
+    "index.html": "/reactt/index.html",
+    "main.f25ca199.css.map": "/reactt/static/css/main.f25ca199.css.map",
+    "main.c6ee6957.js.map": "/reactt/static/js/main.c6ee6957.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f25ca199.css",
+    "static/js/main.c6ee6957.js"
+  ]
+}
